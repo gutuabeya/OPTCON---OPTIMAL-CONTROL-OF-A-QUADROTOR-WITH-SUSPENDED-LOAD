@@ -1,0 +1,679 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.1)  14 JAN 2024 00:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**OPTCON_report_template_.tex
+(./OPTCON_report_template_.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-11>
+(c:/texlive/2023/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2021/02/14 v1.3d Input encoding file
+))
+(c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/12/10 v3.99 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen141
+\l@unhyphenated=\language89
+
+(c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+(c:/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 108.
+))
+(c:/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen142
+))
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks21
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks22
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks23
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(c:/texlive/2023/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count276
+\float@exts=\toks26
+\float@box=\box53
+\@float@everytoks=\toks27
+\@floatcapt=\box54
+)
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count277
+\l__pdf_internal_box=\box55
+)
+(./OPTCON_report_template_.aux)
+\openout1 = `OPTCON_report_template_.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count278
+\scratchdimen=\dimen153
+\scratchbox=\box56
+\nofMPsegments=\count279
+\nofMParguments=\count280
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count281
+\MPscratchDim=\dimen154
+\MPnumerator=\count282
+\makeMPintoPDFobject=\count283
+\everyMPtoPDFconversion=\toks29
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<figs/logo_unibo.png, id=1, 766.865pt x 401.5pt>
+File: figs/logo_unibo.png Graphic file (type png)
+<use figs/logo_unibo.png>
+Package pdftex.def Info: figs/logo_unibo.png  used on input line 25.
+(pdftex.def)             Requested size: 207.05632pt x 108.40643pt.
+ [1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figs/logo_uni
+bo.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+[2
+
+] (./OPTCON_report_template_.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `OPTCON_report_template_.toc'.
+
+ [3
+
+] [4
+
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Chapter 1.
+<figs/quadrotor_model.png, id=23, 260.09673pt x 236.75954pt>
+File: figs/quadrotor_model.png Graphic file (type png)
+<use figs/quadrotor_model.png>
+Package pdftex.def Info: figs/quadrotor_model.png  used on input line 92.
+(pdftex.def)             Requested size: 140.45013pt x 127.84824pt.
+[5
+
+ <./figs/quadrotor_model.png>]
+Overfull \hbox (6.08496pt too wide) detected at line 129
+[]\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 x[] \OT1/cmr
+/m/n/10.95 + \OML/cmm/m/it/10.95 ^^Nt\OT1/cmr/m/n/10.95 [[]\OML/cmm/m/it/10.95 
+L\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ![]\OT1/cmr/m/n/10.95 )[]\OML/cmm/m/it
+/10.95 sin\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr/m/n/10.95 ) \OMS/cm
+sy/m/n/10.95 ^^@ []\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 sin\OT1/cmr/m/n/10.9
+5 (\OML/cmm/m/it/10.95 ^^R\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^@ []\OML/c
+mm/m/it/10.95 sin\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95  \OMS/cmsy/m/n/10.95 
+^^@ \OML/cmm/m/it/10.95 ^^R\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 cos\OT1/cmr/
+m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr/m/n/10.95 ))]
+ []
+
+
+Overfull \hbox (28.43541pt too wide) detected at line 132
+[]\OML/cmm/m/it/10.95 x[] \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 x[] \OT1/cmr
+/m/n/10.95 + \OML/cmm/m/it/10.95 ^^Nt\OT1/cmr/m/n/10.95 [\OMS/cmsy/m/n/10.95 ^^
+@[]\OML/cmm/m/it/10.95 L\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 ![]\OT1/cmr/m/n
+/10.95 )[]\OML/cmm/m/it/10.95 cos\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/
+cmr/m/n/10.95 ) + [](\OML/cmm/m/it/10.95 cos\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/1
+0.95 ^^R\OT1/cmr/m/n/10.95 ) + []\OML/cmm/m/it/10.95 sin\OT1/cmr/m/n/10.95 (\OM
+L/cmm/m/it/10.95  \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 ^^R\OT1/cmr/m/n/
+10.95 )\OML/cmm/m/it/10.95 sin\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr
+/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^@ \OML/cmm/m/it/10.95 g\OT1/cmr/m/n/10.95 )]
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Overfull \hbox (111.59882pt too wide) detected at line 173
+[]
+ []
+
+[6]
+Overfull \hbox (19.86743pt too wide) in paragraph at lines 179--180
+\OT1/cmr/m/n/10.95 bell func-tion to cre-ate a smooth ref-er-ence curve from th
+e state $[][]$
+ []
+
+[7]
+Chapter 2.
+[8
+
+] [9]
+<figs/Optimal traj and desired curve iteration-5.png, id=50, 1023.825pt x 715.6
+7375pt>
+File: figs/Optimal traj and desired curve iteration-5.png Graphic file (type pn
+g)
+<use figs/Optimal traj and desired curve iteration-5.png>
+Package pdftex.def Info: figs/Optimal traj and desired curve iteration-5.png  u
+sed on input line 305.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/Optimal traj and desired curve final.png, id=51, 1023.825pt x 715.67375pt
+>
+File: figs/Optimal traj and desired curve final.png Graphic file (type png)
+<use figs/Optimal traj and desired curve final.png>
+Package pdftex.def Info: figs/Optimal traj and desired curve final.png  used on
+ input line 312.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [10]
+<figs/Optimal traj and desired curve for inputs final.png, id=55, 1023.825pt x 
+699.61375pt>
+File: figs/Optimal traj and desired curve for inputs final.png Graphic file (ty
+pe png)
+<use figs/Optimal traj and desired curve for inputs final.png>
+Package pdftex.def Info: figs/Optimal traj and desired curve for inputs final.p
+ng  used on input line 319.
+(pdftex.def)             Requested size: 360.0pt x 246.00005pt.
+ [11 <./figs/Optimal traj and desired curve iteration-5.png> <./figs/Optimal tr
+aj and desired curve final.png>]
+<figs/Armijo descent direction plot at iteration-1.png, id=61, 1023.825pt x 715
+.67375pt>
+File: figs/Armijo descent direction plot at iteration-1.png Graphic file (type 
+png)
+<use figs/Armijo descent direction plot at iteration-1.png>
+Package pdftex.def Info: figs/Armijo descent direction plot at iteration-1.png 
+ used on input line 329.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/Armijo descent direction plot at iteration-3.png, id=62, 1023.825pt x 715
+.67375pt>
+File: figs/Armijo descent direction plot at iteration-3.png Graphic file (type 
+png)
+<use figs/Armijo descent direction plot at iteration-3.png>
+Package pdftex.def Info: figs/Armijo descent direction plot at iteration-3.png 
+ used on input line 336.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [12 <./figs/Optimal traj and desired curve for inputs final.png>]
+<figs/Armijo descent direction plot at iteration-5.png, id=67, 1023.825pt x 715
+.67375pt>
+File: figs/Armijo descent direction plot at iteration-5.png Graphic file (type 
+png)
+<use figs/Armijo descent direction plot at iteration-5.png>
+Package pdftex.def Info: figs/Armijo descent direction plot at iteration-5.png 
+ used on input line 343.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/Armijo descent direction plot at last iterations.png, id=68, 1023.825pt x
+ 715.67375pt>
+File: figs/Armijo descent direction plot at last iterations.png Graphic file (t
+ype png)
+<use figs/Armijo descent direction plot at last iterations.png>
+Package pdftex.def Info: figs/Armijo descent direction plot at last iterations.
+png  used on input line 350.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [13 <./figs/Armijo descent direction plot at iteration-1.png> <./figs/Armijo d
+escent direction plot at iteration-3.png>]
+<figs/Norm of the Descent Direction-1.jpeg, id=75, 1023.825pt x 715.67375pt>
+File: figs/Norm of the Descent Direction-1.jpeg Graphic file (type jpg)
+<use figs/Norm of the Descent Direction-1.jpeg>
+Package pdftex.def Info: figs/Norm of the Descent Direction-1.jpeg  used on inp
+ut line 360.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+
+[14 <./figs/Armijo descent direction plot at iteration-5.png> <./figs/Armijo de
+scent direction plot at last iterations.png>]
+<figs/Cost of the Step Trajectory.jpeg, id=81, 1023.825pt x 715.67375pt>
+File: figs/Cost of the Step Trajectory.jpeg Graphic file (type jpg)
+<use figs/Cost of the Step Trajectory.jpeg>
+Package pdftex.def Info: figs/Cost of the Step Trajectory.jpeg  used on input l
+ine 370.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [15 <./figs/Norm of the Descent Direction-1.jpeg>] [16 <./figs/Cost of the Ste
+p Trajectory.jpeg>]
+Chapter 3.
+<figs/optmal trajectory and desired curve iteration-1.png, id=88, 1023.825pt x 
+715.67375pt>
+File: figs/optmal trajectory and desired curve iteration-1.png Graphic file (ty
+pe png)
+<use figs/optmal trajectory and desired curve iteration-1.png>
+Package pdftex.def Info: figs/optmal trajectory and desired curve iteration-1.p
+ng  used on input line 387.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/optmal trajectory and desired curve iteration-2.png, id=89, 1023.825pt x 
+715.67375pt>
+File: figs/optmal trajectory and desired curve iteration-2.png Graphic file (ty
+pe png)
+<use figs/optmal trajectory and desired curve iteration-2.png>
+Package pdftex.def Info: figs/optmal trajectory and desired curve iteration-2.p
+ng  used on input line 394.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+[17
+
+]
+<figs/optmal trajectory and desired curve iteration-3.png, id=93, 1023.825pt x 
+715.67375pt>
+File: figs/optmal trajectory and desired curve iteration-3.png Graphic file (ty
+pe png)
+<use figs/optmal trajectory and desired curve iteration-3.png>
+Package pdftex.def Info: figs/optmal trajectory and desired curve iteration-3.p
+ng  used on input line 401.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/optmal trajectory and desired curve iteration-4.png, id=94, 1023.825pt x 
+715.67375pt>
+File: figs/optmal trajectory and desired curve iteration-4.png Graphic file (ty
+pe png)
+<use figs/optmal trajectory and desired curve iteration-4.png>
+Package pdftex.def Info: figs/optmal trajectory and desired curve iteration-4.p
+ng  used on input line 408.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [18 <./figs/optmal trajectory and desired curve iteration-1.png> <./figs/optma
+l trajectory and desired curve iteration-2.png>]
+<figs/optmal trajectory and desired curve iteration-5.png, id=100, 1023.825pt x
+ 715.67375pt>
+File: figs/optmal trajectory and desired curve iteration-5.png Graphic file (ty
+pe png)
+<use figs/optmal trajectory and desired curve iteration-5.png>
+Package pdftex.def Info: figs/optmal trajectory and desired curve iteration-5.p
+ng  used on input line 415.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/optmal trajectory and desired curve iteration-6.png, id=101, 1023.825pt x
+ 715.67375pt>
+File: figs/optmal trajectory and desired curve iteration-6.png Graphic file (ty
+pe png)
+<use figs/optmal trajectory and desired curve iteration-6.png>
+Package pdftex.def Info: figs/optmal trajectory and desired curve iteration-6.p
+ng  used on input line 422.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [19 <./figs/optmal trajectory and desired curve iteration-3.png> <./figs/optma
+l trajectory and desired curve iteration-4.png>]
+<figs/Optimal trajectory and desired curve final.png, id=108, 1371.1225pt x 697
+.60625pt>
+File: figs/Optimal trajectory and desired curve final.png Graphic file (type pn
+g)
+<use figs/Optimal trajectory and desired curve final.png>
+Package pdftex.def Info: figs/Optimal trajectory and desired curve final.png  u
+sed on input line 429.
+(pdftex.def)             Requested size: 360.0pt x 183.16164pt.
+<figs/Optimal trajectory for inputs and desired input curve.png, id=109, 1023.8
+25pt x 699.61375pt>
+File: figs/Optimal trajectory for inputs and desired input curve.png Graphic fi
+le (type png)
+<use figs/Optimal trajectory for inputs and desired input curve.png>
+Package pdftex.def Info: figs/Optimal trajectory for inputs and desired input c
+urve.png  used on input line 436.
+(pdftex.def)             Requested size: 360.0pt x 246.00005pt.
+ [20 <./figs/optmal trajectory and desired curve iteration-5.png> <./figs/optma
+l trajectory and desired curve iteration-6.png>]
+<figs/Armijo descent direction plot iteration-1.png, id=115, 1023.825pt x 715.6
+7375pt>
+File: figs/Armijo descent direction plot iteration-1.png Graphic file (type png
+)
+<use figs/Armijo descent direction plot iteration-1.png>
+Package pdftex.def Info: figs/Armijo descent direction plot iteration-1.png  us
+ed on input line 446.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/Armijo descent direction plot iteration-2.png, id=116, 1023.825pt x 715.6
+7375pt>
+File: figs/Armijo descent direction plot iteration-2.png Graphic file (type png
+)
+<use figs/Armijo descent direction plot iteration-2.png>
+Package pdftex.def Info: figs/Armijo descent direction plot iteration-2.png  us
+ed on input line 453.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [21 <./figs/Optimal trajectory and desired curve final.png> <./figs/Optimal tr
+ajectory for inputs and desired input curve.png>]
+<figs/Armijo descent direction plot iteration-3.png, id=122, 1023.825pt x 715.6
+7375pt>
+File: figs/Armijo descent direction plot iteration-3.png Graphic file (type png
+)
+<use figs/Armijo descent direction plot iteration-3.png>
+Package pdftex.def Info: figs/Armijo descent direction plot iteration-3.png  us
+ed on input line 460.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+<figs/Armijo descent direction plot iteration-4.png, id=123, 1023.825pt x 715.6
+7375pt>
+File: figs/Armijo descent direction plot iteration-4.png Graphic file (type png
+)
+<use figs/Armijo descent direction plot iteration-4.png>
+Package pdftex.def Info: figs/Armijo descent direction plot iteration-4.png  us
+ed on input line 467.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [22 <./figs/Armijo descent direction plot iteration-1.png> <./figs/Armijo desc
+ent direction plot iteration-2.png>]
+<figs/Armijo descent direction plot final.png, id=129, 1023.825pt x 715.67375pt
+>
+File: figs/Armijo descent direction plot final.png Graphic file (type png)
+<use figs/Armijo descent direction plot final.png>
+Package pdftex.def Info: figs/Armijo descent direction plot final.png  used on 
+input line 474.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+
+[23 <./figs/Armijo descent direction plot iteration-3.png> <./figs/Armijo desce
+nt direction plot iteration-4.png>]
+<figs/Norm of the Descent Direction-2.jpeg, id=135, 1023.825pt x 715.67375pt>
+File: figs/Norm of the Descent Direction-2.jpeg Graphic file (type jpg)
+<use figs/Norm of the Descent Direction-2.jpeg>
+Package pdftex.def Info: figs/Norm of the Descent Direction-2.jpeg  used on inp
+ut line 484.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [24 <./figs/Armijo descent direction plot final.png> <./figs/Norm of the Desce
+nt Direction-2.jpeg>]
+<figs/Cost of the Bell-shaped Trajectory.jpeg, id=140, 1023.825pt x 715.67375pt
+>
+File: figs/Cost of the Bell-shaped Trajectory.jpeg Graphic file (type jpg)
+<use figs/Cost of the Bell-shaped Trajectory.jpeg>
+Package pdftex.def Info: figs/Cost of the Bell-shaped Trajectory.jpeg  used on 
+input line 494.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [25 <./figs/Cost of the Bell-shaped Trajectory.jpeg>]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--507
+
+ []
+
+
+Overfull \hbox (16.81697pt too wide) in paragraph at lines 504--507
+\OT1/cmr/bx/n/10.95 Step 1: Lin-earize the dy-nam-ics about the op-ti-mal tra-j
+ec-tory $\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 x[]; u[]\OT1/cmr/m/n/10.95 )$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--520
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
+34.
+(c:/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 534.
+
+Overfull \hbox (48.62152pt too wide) detected at line 538
+\OML/cmm/m/it/10.95 P[] \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 Q[] \OT1/cmr/m
+/n/10.95 + [][]\OML/cmm/m/it/10.95 P[]A[] \OMS/cmsy/m/n/10.95 ^^@ \OT1/cmr/m/n/
+10.95 ([][]\OML/cmm/m/it/10.95 P[]B[]\OT1/cmr/m/n/10.95 )(\OML/cmm/m/it/10.95 R
+[] \OT1/cmr/m/n/10.95 + [][]\OML/cmm/m/it/10.95 P[]B[]\OT1/cmr/m/n/10.95 )[]([]
+[]\OML/cmm/m/it/10.95 P[]A[]\OT1/cmr/m/n/10.95 )
+ []
+
+[26
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 543--546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+<figs/Trajectory tracking via LQR 1.jpeg, id=149, 1023.825pt x 715.67375pt>
+File: figs/Trajectory tracking via LQR 1.jpeg Graphic file (type jpg)
+<use figs/Trajectory tracking via LQR 1.jpeg>
+Package pdftex.def Info: figs/Trajectory tracking via LQR 1.jpeg  used on input
+ line 566.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+[27]
+<figs/Trajectory tracking via LQR 2.jpeg, id=153, 1023.825pt x 715.67375pt>
+File: figs/Trajectory tracking via LQR 2.jpeg Graphic file (type jpg)
+<use figs/Trajectory tracking via LQR 2.jpeg>
+Package pdftex.def Info: figs/Trajectory tracking via LQR 2.jpeg  used on input
+ line 574.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [28 <./figs/Trajectory tracking via LQR 1.jpeg> <./figs/Trajectory tracking vi
+a LQR 2.jpeg>] [29]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--614
+
+ []
+
+[30
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 648--650
+
+ []
+
+<figs/Trajectory tracking via MPC 1.jpeg, id=163, 1023.825pt x 715.67375pt>
+File: figs/Trajectory tracking via MPC 1.jpeg Graphic file (type jpg)
+<use figs/Trajectory tracking via MPC 1.jpeg>
+Package pdftex.def Info: figs/Trajectory tracking via MPC 1.jpeg  used on input
+ line 656.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+[31]
+<figs/Trajectory tracking via MPC 2.jpeg, id=168, 1023.825pt x 715.67375pt>
+File: figs/Trajectory tracking via MPC 2.jpeg Graphic file (type jpg)
+<use figs/Trajectory tracking via MPC 2.jpeg>
+Package pdftex.def Info: figs/Trajectory tracking via MPC 2.jpeg  used on input
+ line 664.
+(pdftex.def)             Requested size: 360.0pt x 251.64711pt.
+ [32 <./figs/Trajectory tracking via MPC 1.jpeg> <./figs/Trajectory tracking vi
+a MPC 2.jpeg>] [33]
+No file OPTCON_report_template_.bbl.
+[34
+
+] (./OPTCON_report_template_.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-11>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4320 strings out of 474174
+ 81194 string characters out of 5749678
+ 1940460 words of memory out of 5000000
+ 26576 multiletter control sequences out of 15000+600000
+ 567229 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,15n,65p,927b,292s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfr
+m1095.pfb>
+Output written on OPTCON_report_template_.pdf (34 pages, 2667719 bytes).
+PDF statistics:
+ 247 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+
